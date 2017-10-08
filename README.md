@@ -1,2 +1,3 @@
-# gymgeek-academy
-Hlavní repozitář pro GymGeek::Academy.
+# GymGeek::Academy
+
+Toto je hlavní repozitář pro gymgeek kroužek. Budou zde všechny kódy z hodin.
