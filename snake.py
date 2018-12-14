@@ -62,6 +62,9 @@ class Hra(Activity):
             if udalost.key == K_p:
                 self.y += 1
 
+        elif udalost.type == MOUSEBUTTONDOWN:
+            self.program.aktualni = Uvod(self.program)
+
 
 class GraphicsProgram:
     running = False
